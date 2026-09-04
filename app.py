@@ -398,7 +398,7 @@ with st.sidebar:
         label_visibility="collapsed",
     )
     st.divider()
-    st.caption("Дипломен проект: класификация на кибератаки")
+    st.caption("Дипломен проект: Проактивна система за анализ на мрежовия трафик и откриване на кибератаки")
 
 
 if selected_page == "Начало":
